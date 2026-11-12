@@ -1,0 +1,6 @@
+{
+  "name": "CaptioAI - Viral Video Studio & Voice Cloning",
+  "description": "AI-powered video editor with viral animated captions, multilingual voice cloning, auto-dubbing (English, Hindi, Kannada, Telugu), Hook Doctor, and social viral kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
